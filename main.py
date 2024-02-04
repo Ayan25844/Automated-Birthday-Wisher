@@ -5,7 +5,7 @@ import pandas, random,smtplib
 now=dt.datetime.now()
 today=(now.month,now.day)
 
-password="nwzssbrfklklzqnv"
+password="ooooooooooooooooooo"
 my_email="ayan25844@gmail.com"
 
 df=pandas.read_csv("birthdays.csv")
